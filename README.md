@@ -27,7 +27,7 @@
 <h4>List available schema</h4>
 <p>he below command is used to see the available list of all schemas of the currently connected database.</p>
 <code><pre>\dn</pre></code>
-<img src="sampl images/schema.png">
+<img src="sample images/schema.png">
 <h4>List users and their roles</h4>
 <p>In psql, we will use the following command to list all users and their assigned roles.</p>                                  
 <code><pre>\du</pre></code>                                                                    
