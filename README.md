@@ -23,7 +23,7 @@
 <img src="sample images/descatable.png" width="450">
 <h4>List available functions</h4>
 <code><pre>\df</pre></code>
-<img src="sample images/function.png" width="450">
+<img src="sample images/df.png" width="450">
 <h4>List available schema</h4>
 <p>he below command is used to see the available list of all schemas of the currently connected database.</p>
 <code><pre>\dn</pre></code>
