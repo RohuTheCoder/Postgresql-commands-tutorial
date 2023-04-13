@@ -12,7 +12,7 @@
 <h4>List available databases</h4>
 <p>To list all databases in the current PostgreSQL database server, we will use the below command:</p>
 <code><pre>\l</pre></code>
-<img src=sample images/l.png" width="450">
+<img src="sample images/l.png" width="450">
 <h4>List available tables</h4>
 <p>To list all tables in the current database, we will use the below command:</p>
 <code><pre>\dt</pre></code>
