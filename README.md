@@ -20,7 +20,7 @@
 <h4>Describe a table</h4>
 <p>The below command is used to describe a table such as a type, column, modifiers of columns, etc.</p>
 <code><pre>\d table_name</pre></code>
-<img src=sample images/descatable.png" width="450">
+<img src="sample images/descatable.png" width="450">
 <h4>List available functions</h4>
 <code><pre>\df</pre></code>
 <img src="sample images/function.png" width="450">
