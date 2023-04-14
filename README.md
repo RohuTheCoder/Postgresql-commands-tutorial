@@ -56,4 +56,11 @@
 <h4>Turn on query execution time</h4>
 <p>We will use the following command to turn on query execution time.</p>
 <code><pre>\timing</pre></code>
-<img src="sample images/timing.png" width="450">                                          
+<img src="sample images/timing.png" width="450"> 
+<p>And if we want to see the count from company_data table,we will use the below command:</p>
+<code><pre>select count(*) from company_data;</pre></code>
+<img src="sample images/query.png" width=450">
+<p>to turn it off,we can use the same command as above:</p>
+<code><pre>\timing</pre></code>
+<img src="sample images/timingoff.png" width="450">
+
